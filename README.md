@@ -2,9 +2,9 @@
 <h3 align="center">Future Full Stack Engineer from Morocco</h3>
 <p align="center"><img src="https://github.com/user-attachments/assets/2bb05891-2528-430d-a162-375ffa1489f1" alt="Gorgeous man holding a badge with a smile on his face" height=400/></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kwanddwo&label=Profile%20views&color=0e75b6&style=flat" alt="kwanddwo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kwanddwo&label=Profile%20views&color=0e75b6&style=flat" alt="kwanddwo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwanddwo" alt="kwanddwo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwanddwo" alt="kwanddwo" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js and SpringBoot**
 
@@ -14,8 +14,8 @@
 
 - 📫 Reach me at **marouanelemghari@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/marouane-lemghari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marouane-lemghari" height="30" width="40" /></a>
 </p>
 
