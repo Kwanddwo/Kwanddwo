@@ -1,10 +1,8 @@
 <h1 align="center">Hey 👋, I'm Kwanddwo (Marouane Lemghari)</h1>
-<h3 align="center">Future Full Stack Engineer from Morocco</h3>
+
 <p align="center"><img src="https://github.com/user-attachments/assets/2bb05891-2528-430d-a162-375ffa1489f1" alt="Gorgeous man holding a badge with a smile on his face" height=400/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kwanddwo&label=Profile%20views&color=0e75b6&style=flat" alt="kwanddwo" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwanddwo" alt="kwanddwo" /></a> </p>
+<h3 align="center">Future Full Stack Engineer from Morocco</h3>
 
 - 🌱 I’m currently learning **Next.js and SpringBoot**
 
@@ -13,6 +11,11 @@
 - 📝 I regularly write articles on [marouane-lemghari.me/blog](marouane-lemghari.me/blog)
 
 - 📫 Reach me at **marouanelemghari@gmail.com**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kwanddwo&label=Profile%20views&color=0e75b6&style=flat" alt="kwanddwo" /> </p>
+
+<h3 align="center">Trophies</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwanddwo" alt="kwanddwo" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
