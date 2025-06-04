@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Next.js and SpringBoot**
 
-- 👨‍💻 All of my projects are available at [marouane-lemghari.me](marouane-lemghari.me)
+- 👨‍💻 All of my projects are available at [marouane-lemghari.me](https://marouane-lemghari.me)
 
-- 📝 I regularly write articles on [marouane-lemghari.me/blog](marouane-lemghari.me/blog)
+- 📝 I regularly write articles on [marouane-lemghari.me/blog](https://marouane-lemghari.me/blog)
 
 - 📫 Reach me at **marouanelemghari@gmail.com**
 
