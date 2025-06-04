@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kwanddwo (Marouane Lemghari)</h1>
 <h3 align="center">Future Full Stack Engineer from Morocco</h3>
-![WhatsApp Image 2025-01-19 at 22 31 53_7a6407e8](https://github.com/user-attachments/assets/2bb05891-2528-430d-a162-375ffa1489f1)
+<img src="https://github.com/user-attachments/assets/2bb05891-2528-430d-a162-375ffa1489f1" alt="Gorgeous man holding a badge with a smile on his face"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwanddwo&label=Profile%20views&color=0e75b6&style=flat" alt="kwanddwo" /> </p>
 
