@@ -1,6 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kwanddwo (Marouane Lemghari)</h1>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/2bb05891-2528-430d-a162-375ffa1489f1" alt="Gorgeous man holding a badge with a smile on his face" height=400/></p>
+<h1 align="center">Hey, I'm Marouane Lemghari (Kwanddwo) 👋</h1>
 
 <h3 align="center">Future Full Stack Engineer from Morocco</h3>
 
