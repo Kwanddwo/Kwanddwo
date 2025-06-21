@@ -31,7 +31,7 @@ Design:      Figma, Accessible UI Patterns
 
 - 🌐 Website → [marouane-lemghari.me](https://marouane-lemghari.me)
 - 💼 LinkedIn → [linkedin.com/in/marouane-lemghari](https://linkedin.com/in/marouane-lemghari)
-
+- 📧 Email → [marouanelemghari@gmail.com](mailto:marouanelemghari@gmail.com)
 ---
 
 <p align="center"><em>“It is not death that a man should fear, but he should fear never beginning to live.”
