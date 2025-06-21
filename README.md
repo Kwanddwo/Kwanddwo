@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Marouane Lemghari (Kwanddwo) 👋</h1>
 
-<h3 align="center">Future Full Stack Engineer from Morocco</h3>
+<h3 align="center">Software Engineer - Builder - AI Enthusiast</h3>
 
 ---
 
