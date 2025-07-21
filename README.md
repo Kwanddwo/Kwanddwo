@@ -24,6 +24,7 @@ Design:      Figma, Accessible UI Patterns
 
 - 🧠 **Intelligent Tutor System** – Learning Graph Algorithms with AI assistance
 - 🧰 **Syncora** – Simplified collaborative task and project management
+- 🧪 **Conflow** – Scientific conference management
 
 ---
 
