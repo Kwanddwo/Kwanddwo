@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Engineer • AI Builder • UI Architect</b><br>
-  I build tools, systems, and products.
 </p>
 
 ---
