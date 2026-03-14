@@ -34,5 +34,4 @@ Design:      Figma, Accessible UI Patterns
 - 📧 Email → [marouanelemghari@gmail.com](mailto:marouanelemghari@gmail.com)
 ---
 
-<p align="center"><em>“It is not death that a man should fear, but he should fear never beginning to live.”
-― Marcus Aurelius, Meditations</em></p>
+<p align="center"><em>“Enjoy doing things you're not good at, it's how you learn.” ― Linus Torvalds</em></p>
