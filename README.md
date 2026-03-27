@@ -11,8 +11,8 @@
 ```ts
 Languages:   Python, JavaScript, TypeScript, Java, SQL
 Frontend:    React, Next.js, Tailwind CSS
-Backend:     FastAPI, Flask, Node.js, Spring
-Infra:       Heroku, Firebase, GitHub Actions
+Backend:     FastAPI, Django, Node.js, SpringBoot
+Infra:       Heroku, Supabase, GitHub Actions
 Testing:     Cypress, Jest, Playwright, Postman
 Design:      Figma, Accessible UI Patterns
 ```
